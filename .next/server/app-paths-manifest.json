@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/login/page": "app/login/page.js",
+  "/orders/page": "app/orders/page.js",
+  "/shop/page": "app/shop/page.js",
+  "/api/products/route": "app/api/products/route.js",
+  "/api/orders/route": "app/api/orders/route.js",
+  "/products/page": "app/products/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/notifications/page": "app/notifications/page.js",
+  "/page": "app/page.js"
+}
